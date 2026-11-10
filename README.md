@@ -1,24 +1,48 @@
-# Hi, I'm Hesam 👋
+# Hi, I'm Hesam Qorbani
 
-Smart contract developer focused on security. I build my skills in public: I study real bugs, write exploit tests in Foundry, and fix them.
+**Solidity Developer | Smart Contract Security | Foundry**
 
-## What I'm working on now
-- Done: reproduced the ERC-4626 donation attack in Foundry and fixed it with virtual shares → [erc4626-donation-attack-lab](https://github.com/HesamQorbani/erc4626-donation-attack-lab)
-- Planning to: write invariant tests that can actually fail
-- Planning to: work through Cyfrin Updraft, Ethernaut and Damn Vulnerable DeFi
+I'm focused on building and testing smart contracts with Solidity and Foundry, with a particular interest in security, protocol behavior, and common vulnerabilities.
 
-## What I know so far
-- Solidity basics, ERC-20, staking and vault patterns
-- Foundry: unit tests and fuzz tests (learning invariant testing)
-- Reading and reviewing contracts, including AI-generated ones
+I learn by studying real-world smart contract issues, reproducing them in controlled environments, writing tests, and documenting the results.
 
-## How I work
-- I'm practicing writing the test first and explaining every line I commit
-- I use AI tools openly and verify what they produce
-- I document known issues in my own code
+## Featured Project
 
-## Looking for
-Smart contract development and security roles, remote.
+### [ERC-4626 Donation Attack Lab](https://github.com/HesamQorbani/erc4626-donation-attack-lab)
 
-## Contact
-LinkedIn: https://www.linkedin.com/in/hesam-qorbani-70023a384/
+An educational Foundry project demonstrating the ERC-4626 share-price inflation (donation) attack and exploring a mitigation using virtual shares and virtual assets.
+
+**What the project covers:**
+- Vulnerable and mitigated vault implementations
+- Solidity unit and fuzz testing
+- OpenZeppelin `SafeERC20` and `ReentrancyGuard`
+- Fee-on-transfer token behavior
+- Reentrancy test scenarios
+- Foundry formatting, linting, and CI checks
+
+This is an educational project, not a production-ready vault or a security audit.
+
+## Technical Skills
+
+- **Smart Contracts:** Solidity, ERC-20, vault fundamentals
+- **Development & Testing:** Foundry, Forge, unit testing, fuzz testing
+- **Libraries:** OpenZeppelin Contracts
+- **Tools:** Git, GitHub, Linux, WSL2, VS Code
+
+## Current Focus
+
+- Improving Solidity security and secure contract design
+- Learning invariant testing and advanced Foundry workflows
+- Studying DeFi protocols and common smart contract vulnerabilities
+- Improving code review, debugging, and gas optimization skills
+
+## How I Work
+
+- I aim to understand and explain the code I work with.
+- I use AI tools as development assistance and independently review and test their output.
+- I document limitations and avoid presenting unverified work as production-ready.
+
+## Connect
+
+- **GitHub:** [HesamQorbani](https://github.com/HesamQorbani)
+- **LinkedIn:** [Hesam Qorbani](https://www.linkedin.com/in/hesam-qorbani-70023a384/)
